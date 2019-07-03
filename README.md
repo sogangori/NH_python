@@ -6,3 +6,9 @@
 - 클래스 : 로또 
 - 예외 처리
 - Numpy
+
+- Pandas
+- Machine Learning
+- Supervised Learning
+  - Linear Regression
+  - tree
