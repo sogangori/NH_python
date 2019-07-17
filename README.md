@@ -12,3 +12,16 @@
 - Supervised Learning
   - Linear Regression
   - tree
+  - ensemble
+- Unsupervised Learning
+  - 차원축소
+    - PCA
+    - t-SNE
+  - 클러스터링
+    - K-Means
+    - 병합 군집
+    - DBSCAN
+- 머신러닝 성능측정
+- 텍스트 데이터 전처리
+  - Bag of Wards
+  
